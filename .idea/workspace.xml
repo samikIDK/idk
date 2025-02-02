@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab0f646b-fc51-4d2b-b70b-c183d0c50d91" name="Changes" comment="commit" />
+    <list default="true" id="ab0f646b-fc51-4d2b-b70b-c183d0c50d91" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121815 .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121823.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121831.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121841.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121850.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121858.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121903.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121908.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121914.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121920.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121925.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Snímka obrazovky 2025-01-24 121930.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_01_2025_13_26_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_01_2025_13_26__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -22,21 +46,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "samikIDK"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;samikIDK&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/samikIDK/idk.git",
-    "accountId": "449975ed-85f7-49a8-abcf-ec8a2a8e9574"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/samikIDK/idk.git&quot;,
+    &quot;accountId&quot;: &quot;449975ed-85f7-49a8-abcf-ec8a2a8e9574&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2rkwOFofQmyIXAcccUJKp4Qn2Tm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,6 +74,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Samuel/OneDrive - ORBIS, Mateřská škola, Základní škola a Střední škola, s.r.o/untitled3",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +84,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Samuel\OneDrive - ORBIS, Mateřská škola, Základní škola a Střední škola, s.r.o\untitled3" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +104,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737116346360</updated>
-      <workItem from="1737116347404" duration="473000" />
+      <workItem from="1737116347404" duration="1734000" />
+      <workItem from="1737358737777" duration="1777000" />
+      <workItem from="1737717905859" duration="81000" />
+      <workItem from="1738053225173" duration="208000" />
+      <workItem from="1738053486084" duration="1167000" />
+      <workItem from="1738522702649" duration="2525000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -91,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737116556658</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1737116833394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737116833394</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
